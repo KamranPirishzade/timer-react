@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timer-react/static/css/main.31c1d45c.css",
+    "main.js": "/timer-react/static/js/main.23b1f07c.js",
+    "index.html": "/timer-react/index.html",
+    "main.31c1d45c.css.map": "/timer-react/static/css/main.31c1d45c.css.map",
+    "main.23b1f07c.js.map": "/timer-react/static/js/main.23b1f07c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c1d45c.css",
+    "static/js/main.23b1f07c.js"
+  ]
+}
