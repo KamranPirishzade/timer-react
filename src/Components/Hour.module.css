@@ -1,0 +1,12 @@
+
+
+.current{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+
+.current p{
+    font-size: 90px;
+    color: brown;
+}
